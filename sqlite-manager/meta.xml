@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<module>
+  <id>sqlite-manager</id>
+  <name>SQLite manager</name>
+  <description>Simple editor for SQLite databases</description>
+  <version>1.0</version>
+  <release>0</release>
+</module>
